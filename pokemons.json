@@ -2,12 +2,12 @@
   {
     "num": 1,
     "name": "Bulbasaur",
-    "cry": "https://play.pokemonshowdown.com/audio/cries/bulbasaur.mp3",
     "variations": [
       {
         "name": "Bulbasaur",
         "description": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.",
         "image": "https://www.serebii.net/pokemon/art/001.png",
+        "cry": "https://play.pokemonshowdown.com/audio/cries/bulbasaur.mp3",
         "types": [
           "Grass",
           "Poison"
