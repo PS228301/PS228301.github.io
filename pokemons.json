@@ -1,41 +1,42 @@
 [
-    {
-        "num": 1,
+  {
+    "num": 1,
+    "name": "Bulbasaur",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bulbasaur.mp3",
+    "variations": [
+      {
         "name": "Bulbasaur",
-        "variations": [
-            {
-                "name": "Bulbasaur",
-                "description": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.",
-                "image": "https://www.serebii.net/pokemon/art/001.png",
-                "types": [
-                    "Grass",
-                    "Poison"
-                ],
-                "specie": "Seed Pokémon",
-                "height": 0.7,
-                "weight": 6.9,
-                "abilities": [
-                    "Overgrow",
-                    "Chlorophyll"
-                ],
-                "stats": {
-                    "total": 318,
-                    "hp": 45,
-                    "attack": 49,
-                    "defense": 49,
-                    "special attack": 65,
-                    "special defense": 65,
-                    "speed": 45
-                },
-                "evolutions": [
-                    "bulbasaur",
-                    "ivysaur",
-                    "venusaur"
-                ]
-            }
+        "description": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.",
+        "image": "https://www.serebii.net/pokemon/art/001.png",
+        "types": [
+          "Grass",
+          "Poison"
         ],
-        "link": "https://pokemondb.net/pokedex/bulbasaur"
-    },
+        "specie": "Seed Pokémon",
+        "height": 0.7,
+        "weight": 6.9,
+        "abilities": [
+          "Overgrow",
+          "Chlorophyll"
+        ],
+        "stats": {
+          "total": 318,
+          "hp": 45,
+          "attack": 49,
+          "defense": 49,
+          "special attack": 65,
+          "special defense": 65,
+          "speed": 45
+        },
+        "evolutions": [
+          "bulbasaur",
+          "ivysaur",
+          "venusaur"
+        ]
+      }
+    ],
+    "link": "https://pokemondb.net/pokedex/bulbasaur"
+  },
     {
         "num": 2,
         "name": "Ivysaur",
