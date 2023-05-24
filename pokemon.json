@@ -1,0 +1,351 @@
+[
+  {
+    "number": 152,
+    "name": "Chikorita",
+    "type": [
+      "Grass"
+    ],
+    "abilities": [
+      "Overgrow",
+      "Leaf Guard"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 65,
+      "special attack": 49,
+      "special defense": 65,
+      "speed": 45
+    },
+    "link": "https://www.serebii.net/pokemon/art/152.png",
+    "description": "Chikorita is a small, pale-green, quadrupedal Pokémon with dark-green buds around its neck. Its head is large in proportion to the rest of its body, and it has big red eyes. Chikorita has four short legs with a single nailed toe on each and a stubby tail. On top of its head is a large, green leaf that is usually longer than its body. A soothing aroma wafts from the leaf, which can calm battling Pokémon. The leaf is also used to sense temperature and humidity. Chikorita actively seeks out and enjoys the sun's warmth."
+  },
+  {
+    "number": 153,
+    "name": "Bayleef",
+    "type": [
+      "Grass"
+    ],
+    "abilities": [
+      "Overgrow",
+      "Leaf Guard"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 80,
+      "special attack": 63,
+      "special defense": 80,
+      "speed": 60
+    },
+    "link": "https://www.serebii.net/pokemon/art/153.png",
+    "description": "Bayleef is a quadrupedal, pale-yellow reptilian Pokémon that resembles a sauropod dinosaur. It has a long neck, red eyes, a short, rounded snout, and a stubby tail. Each foot has a single, light gray nail. Sprouting from its forehead is a green leaf that curves back over its head and around its neck are a series of tightly curled leaves. Inside the leaves are small tree shoots. The aroma wafting from the leaves around its neck has a spicy scent and has various beneficial effects on those that inhale it. The fragrance has a combination of energizing, stimulating, and healing effects."
+  },
+  {
+    "number": 154,
+    "name": "Meganium",
+    "type": [
+      "Grass"
+    ],
+    "abilities": [
+      "Overgrow",
+      "Leaf Guard"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 100,
+      "special attack": 83,
+      "special defense": 100,
+      "speed": 80
+    },
+    "link": "https://www.serebii.net/pokemon/art/154.png",
+    "description": "Meganium is a quadrupedal, pale-green reptilian Pokémon that resembles a sauropod dinosaur. It has a long neck; yellow eyes; a short, blunt snout; and two stamen-like antennae on top of its snout. The antennae are shorter on a female than on a male. Encircling Meganium's neck are large, pink flower petals with a yellow central pattern and white edges. It has three claws on each foot and a stubby tail."
+  },
+  {
+    "number": 155,
+    "name": "Cyndaquil",
+    "type": [
+      "Fire"
+    ],
+    "abilities": [
+      "Blaze",
+      "Flash Fire"
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "special attack": 60,
+      "special defense": 50,
+      "speed": 65
+    },
+    "link": "https://www.serebii.net/pokemon/art/155.png",
+    "description": "Cyndaquil is a small, bipedal mammalian Pokémon with bluish fur on top of its body and cream-colored fur on its underside. Its eyes are usually seen closed, and it has a long, thin snout. Its arms are short, but its legs are slightly more developed and have a single nail on each foot. On its back are four red circles that can erupt into flames. When the flames are burning, its back has the appearance of being covered in spines. Cyndaquil is capable of defending itself using these flames, and the fire grows more powerful as it becomes angry or defensive. However, if it is tired, the flames are not able to burn properly. It is usually timid by nature and often curls into a ball when intimidated."
+  },
+  {
+    "number": 156,
+    "name": "Quilava",
+    "type": [
+      "Fire"
+    ],
+    "abilities": [
+      "Blaze",
+      "Flash Fire"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "special attack": 80,
+      "special defense": 65,
+      "speed": 80
+    },
+    "link": "https://www.serebii.net/pokemon/art/156.png",
+    "description": "Quilava is a quadrupedal Pokémon with a long and slender body. The top half of its body is a dark blue-green, while its underside is cream-colored. It has triangular ears with dark red interiors, a rounded snout, and triangular red eyes. Each of its paws has three toes. It has five red spots on its body that can project flames: two arranged vertically on its forehead and three lined up horizontally on its rear."
+  },
+  {
+    "number": 157,
+    "name": "Typhlosion",
+    "type": [
+      "Fire"
+    ],
+    "abilities": [
+      "Blaze",
+      "Flash Fire"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special attack": 109,
+      "special defense": 85,
+      "speed": 100
+    },
+    "link": "https://www.serebii.net/pokemon/art/157.png",
+    "description": "Typhlosion is a bulky Pokémon with a long, yet agile body. It is classified as a quadruped, but it is capable of bipedal movement. Most of its body is cream-colored, but its back and the top of its head are a dark green-blue. It has a short, rounded snout and small, triangular eyes and ears. When its mouth is open, its sharp canine teeth and thick tongue are visible. Each of its paws has five digits and there is a coarse, spiky fringe of fur along its rear. Across the back of its neck, there are several red spots that can produce fire."
+  },
+  {
+    "number": 158,
+    "name": "Totodile",
+    "type": [
+      "Water"
+    ],
+    "abilities": [
+      "Torrent",
+      "Sheer Force"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 64,
+      "special attack": 44,
+      "special defense": 48,
+      "speed": 43
+    },
+    "link": "https://www.serebii.net/pokemon/art/158.png",
+    "description": "Totodile is a bipedal, crocodilian Pokémon with well-developed jaws. It has red eyes with ridges above them, black markings around its eyes, and several sharp teeth. On its chest is a yellow, V-shaped marking that extends to its arms; there is a thin line through the center of the marking. Totodile has five fingers and three toes. Down its back is a row of three red spines with a small, red ridge on either side. The tip of its tail has a single red spine as well. Totodile tends to be playful by nature and has a habit of biting anything it sees, including its Trainer. However, its jaws are capable of crushing anything, so it sometimes causes serious injuries."
+  },
+  {
+    "number": 159,
+    "name": "Croconaw",
+    "type": [
+      "Water"
+    ],
+    "abilities": [
+      "Torrent",
+      "Sheer Force"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 80,
+      "special attack": 59,
+      "special defense": 63,
+      "speed": 58
+    },
+    "link": "https://www.serebii.net/pokemon/art/159.png",
+    "description": "Croconaw is a bipedal, crocodilian Pokémon. It has well-developed, rounded jaws with two fangs visible in the corners of the lower jaw even when closed. Its eyes are red with black markings around them. There are three clusters of red spikes on its body: one with three points on top of its head, one with two points between its shoulders, and a diamond-shaped one near the tip of its tail. While most of its body is blue, its lower jaw is yellow and there is an asymmetrical, yellow-and-blue pattern around its chest that resembles a spotted animal skin."
+  },
+  {
+    "number": 160,
+    "name": "Feraligatr",
+    "type": [
+      "Water"
+    ],
+    "abilities": [
+      "Torrent",
+      "Sheer Force"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105,
+      "defense": 100,
+      "special attack": 79,
+      "special defense": 83,
+      "speed": 78
+    },
+    "link": "https://www.serebii.net/pokemon/art/160.png",
+    "description": "Feraligatr is a bulky, bipedal, crocodilian Pokémon with blue scales. It has large, powerful jaws lined with several sharp fangs. Three teeth are visible when its jaws are closed: two in its lower jaw and one in its upper. Its eyes are red with black markings around them and ridges above them and its lower jaw is yellow. There are three red spines on its body, each with three points: one on top of its head, one between its shoulders, and one near the tip of its tail. There are also several groups of large, rectangular scales on its arms, knees, tail, and waist. Its back is slightly hunched with ridges behind the shoulders and hips. On its lower body is a yellow, V-shaped marking that extends up to its thighs; there is a thin line through the center of the marking. Its arms have five clawed fingers and its feet three clawed toes."
+  },
+  {
+    "number": 167,
+    "name": "Spinarak",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "abilities": [
+      "Swarm",
+      "Insomnia",
+      "Sniper"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 40,
+      "special attack": 40,
+      "special defense": 40,
+      "speed": 30
+    },
+    "link": "https://www.serebii.net/pokemon/art/167.png",
+    "description": "Spinarak is a green arachnid Pokémon that resembles a spider. It has black eyes with white pupils, a white horn on its forehead, and a pair of red mandibles. On the back of its abdomen are two black dots and a line that resembles a face; the face on its back can change expression, as seen in the anime and 3D video games. There is an additional line encircling the end of its abdomen. It has three pairs of yellow legs, each with a black band around the middle."
+  },
+  {
+    "number": 168,
+    "name": "Ariados",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "abilities": [
+      "Swarm",
+      "Insomnia",
+      "Sniper"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 70,
+      "special attack": 60,
+      "special defense": 70,
+      "speed": 40
+    },
+    "link": "https://www.serebii.net/pokemon/art/168.png",
+    "description": "Ariados is a red arachnid Pokémon that resembles a spider. It has purple eyes, a pair of white mandibles, and a white horn on its forehead. Around its abdomen are two black stripes and there are two black spots and a yellow spinneret on its rear. The spots and spinneret together form a pattern similar to a face. Ariados can produce thread from both its spinneret and its mouth. It has four yellow legs with two purple bands each; on its back are yellow structures similar to its legs with a single purple stripe each. Its feet are tipped with tiny hooks that allow it to climb ceilings and vertical walls."
+  },
+  {
+    "number": 185,
+    "name": "Sudooodo",
+    "type": [
+      "Rock"
+    ],
+    "abilities": [
+      "Sturdy",
+      "Rock Head",
+      "Rattled"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 115,
+      "special attack": 30,
+      "special defense": 65,
+      "speed": 30
+    },
+    "link": "https://www.serebii.net/pokemon/art/185.png",
+    "description": "Sudowoodo is a Pokémon that has a brown, log-shaped body with yellow spots. It has short legs with toeless feet, and thin forelegs with three green spheres at the ends of its fingers. It has a forked branch on top of its head, which is shorter on the female than on the male. Despite its appearance, Sudowoodo's composition is closer to a rock than a plant. "
+  },
+  {
+    "number": 194,
+    "name": "Wooper",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "abilities": [
+      "Damp",
+      "Water Absorb",
+      "Unaware"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 45,
+      "special attack": 25,
+      "special defense": 25,
+      "speed": 15
+    },
+    "link": "https://www.serebii.net/pokemon/art/194.png",
+    "description": "Wooper is a mostly blue, amphibious Pokémon that resembles an upright, armless axolotl. Wooper's head is large compared to its body, and it has small, round, black eyes. It has purple, branching gills on either side of its head; the males have more branches in its gills than the females. Wooper stands on two small, round feet, and it has a large, thick tail. On its belly are dark blue curved markings."
+  },
+  {
+    "number": 195,
+    "name": "Quagsire",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "abilities": [
+      "Damp",
+      "Water Absorb",
+      "Unaware"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 85,
+      "defense": 85,
+      "special attack": 65,
+      "special defense": 65,
+      "speed": 35
+
+    },
+    "link": "https://www.serebii.net/pokemon/art/195.png",
+    "description": "Quagsire is a light blue, bipedal, amphibious Pokémon. Its head is broad and round, having little neck to distinguish it from the rest of its body. It has a wide mouth and tiny, black eyes. A wavy, purple stripe runs down its back. Along its spine is a dark blue fin, which is larger on the male than on the female. Quagsire's hands and feet both have three digits. Its outer layer of skin is slimy and slippery."
+  },
+  {
+    "number": 195,
+    "name": "Gligar",
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "abilities": [
+      "Hyper Cutter",
+      "Sand Veil",
+      "Immunity"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 105,
+      "special attack": 35,
+      "special defense": 65,
+      "speed": 85
+    },
+    "link": "https://www.serebii.net/pokemon/art/195.png",
+    "description": "Gligar is a purple, chiropteran Pokémon with scorpion features. Its head and body are round and roughly equal in size. It has long, triangular ears and triangular eyes with small pupils. Two large pointed teeth protrude from its upper jaw, and a pink tongue is often seen lolling from its mouth. Its arms are segmented at the wrists and end in large pincers. Spread between its arms are two blue wing membranes, each tipped with a purple claw. Its legs are thin and likewise segmented at the ankles, with its round feet having one claw each. Gligar has a long tail split into spherical sections, ending in a large, round stinger. The female Gligar will have a smaller stinger than the male."
+  },
+  {
+    "number": 235,
+    "name": "Smeargle",
+    "type": [
+      "Normal"
+    ],
+    "abilities": [
+      "Own Tempo",
+      "Technician",
+      "Moody"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 20,
+      "defense": 35,
+      "special attack": 20,
+      "special defense": 45,
+      "speed": 75
+    },
+    "link": "https://www.serebii.net/pokemon/art/235.png",
+    "description": "Smeargle is a bipedal, beagle-like Pokémon with white and brown fur. It has a long tail with an end resembling a paintbrush. This paintbrush oozes with paint, and the color of the paint may vary for each Smeargle, as well as change in hue corresponding to its emotions. Sprites from the games depict green, brown, and red, while the anime also shows yellow and blue. Smeargle has a footprint on its back that is the same color as the tip of the tail. The mark is placed on Smeargle's back as a sign of adulthood. Smeargle also has a round structure on its head with a point that resembles a beret. It has floppy, brown ears and a brown collar on its neck. The rings encircling Smeargle's eyes are also brown, as are Smeargle's eyelids. Its arms have two brown bands, and its legs have only one. Each of its limbs has three digits."
+  }
+]
